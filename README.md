@@ -1,9 +1,6 @@
 <h2 align="center">
   Portfolio Website - v1.0<br/>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./Images/readme-img1.png" />
-</div>
 
 <br/>
 
@@ -26,7 +23,7 @@
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [Soumyajit4419](https://github.com/h-ashraf99/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [h-ashraf](https://github.com/h-ashraf99/Portfolio). Thanks!
 
 ## Built With
 
@@ -65,7 +62,6 @@ The page will reload if you make edits.
 
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
-Open the terminal and type "
 
 ### Show your support
 
